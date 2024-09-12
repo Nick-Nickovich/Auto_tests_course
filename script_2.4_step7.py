@@ -16,5 +16,6 @@ message = browser.find_element(By.ID, "verify_message")
 
 assert "successful" in message.text
 
-
+new line
+script_2.4_step7
 
